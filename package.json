@@ -1,0 +1,10 @@
+{
+    "name": "vue-interval",
+    "version": "0.0.1",
+    "description": "Vue Interval.",
+    "repository": "https://github.com/timesqueezer/vue-interval.git",
+    "author": "https://github.com/reinerBa",
+    "dependencies": {
+        "vue": "^2.1.0",
+    }
+}
